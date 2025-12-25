@@ -76,13 +76,14 @@ Hover effects & interactive UI elements
 
 Add screenshots or GIFs here to showcase the UI
 
+<img width="1316" height="611" alt="image" src="https://github.com/user-attachments/assets/2a91687b-fd8d-4eda-8b22-e995e5f9461a" />
 
 
 ---
 
 🌐 Live Demo
 
-👉 Live Project: (Add your deployed link here — Netlify / GitHub Pages / Vercel)
+👉 Live Project: https://oggy-nu.vercel.app/
 
 
 ---
